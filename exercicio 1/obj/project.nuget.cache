@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUcil0VUYT+Gb/rNqwn/jZNYl8L+50VXNWVD/aVX8AInXm8WaXqhU5xZ8aw3cZnV0/Y7FqQbYWETzcjhIUkQpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\pode votar ou não\\exercicio 1\\exercicio 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
